@@ -28,3 +28,10 @@
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;  /* além do posicionamento, faz os filhos terem a mesma altura */
 }
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 260px;
+}
